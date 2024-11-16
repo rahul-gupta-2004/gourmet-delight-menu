@@ -1,4 +1,4 @@
-# Gourmet Delights Menu
+# Title: Lighthouse-Optimized Gourmet Delights Menu
 
 Welcome to the Gourmet Delights Menu project! This repository contains the code and resources used to build and optimize a dynamic menu page for Gourmet Delights Restaurant. The project leverages XML for menu item management and includes Lighthouse JS performance reports to ensure a high-quality user experience.
 
